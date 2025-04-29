@@ -1,12 +1,58 @@
-## Hi there 👋
+# 📘 Dev-reading-logs
 
-<!--
+> **개발 서적을 함께 읽고 정리한 것을 올리는 리포지토리입니다.**
+> 
 
-**Here are some ideas to get you started:**
+2주에 한 번 이상 한 챕터를 읽고, 개인이 배운 내용을 공유합니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+꾸준한 독서와 기록을 통해 성장하는 개발자가 되는 것을 목표로 합니다. 🪴
+
+
+
+## 📖 스터디 방식
+
+- **주기**: 2주에 1회 이상
+- **내용**: 읽고 싶은 개발 서적 한 챕터 이상 읽고 정리
+- **형식**: Markdown
+- **목표**: 독서 습관, 개발 관련 기술 습득
+
+## 🗂️ 디렉토리 구조
+
+- `책제목/장. 제목/깃허브아이디`
+
+예시: Clean Code/1장. 깨끗한 코드/dayul.md
+
+
+## ✅ 커밋 규칙
+
+- `[책제목] 장 제목 - 깃허브아이디`
+
+예시: [오브젝트] 2장 객체지향 설계 - juyoung07
+
+
+
+## 💬 질문 & 토론
+
+- 읽다가 생긴 궁금한 점, 토론하고 싶은 주제는 GitHub Issues에 자유롭게 작성해주세요!
+
+
+
+## ✨ 목표
+
+- 개발 지식의 체계적인 습득
+- 기록을 통한 사고 정리 및 회고
+- 꾸준한 학습과 동기부여
+
+
+
+## 🐝 벌칙
+
+| 벌칙 이름 | 설명 |
+| --- | --- |
+| 🧼 **“반성문.md” 제출** | `반성문/깃허브아이디.md`에 못 읽은 이유 + 다음 회차 다짐을 벌칙 폴더에 마크다운으로 업로드 (재밌게 써도 OK) |
+| 🐵 **"개발 짤 하나 만들어오기"** | 해당 장을 주제로 밈(Meme)이나 짤을 만들어 벌칙 폴더에 업로드 |
+| 💡 **“~는 못 했지만, 오늘도 개발자다!” 선언문 쓰기** | 예: “이번 주는 코드를 읽지 못했지만, 오늘도 나는 멋진 개발자다!” 라고 벌칙 폴더에 업로드 |
+
+## 📝 진행 상황
+
+- 아래 노션에서 책과 진행상황을 볼 수 있습니다.
